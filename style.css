@@ -11,8 +11,8 @@ body {
 
 .container {
   text-align: center;
-  max-width: 400px;
-  width: 70%;
+  max-width: 600px;
+  width: 90%;
   padding: 2rem;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   background: white;
@@ -25,7 +25,7 @@ h1 {
 }
 
 .slideshow-container {
-  width: 800%;
+  width: 100%;
   max-width: 600px;
   margin: 0 auto 1.5rem;
   position: relative;
@@ -34,7 +34,7 @@ h1 {
 }
 
 .carousel-image {
-  width: 80%;
+  width: 100%;
   height: auto;
   display: block;
   border-radius: 12px;
